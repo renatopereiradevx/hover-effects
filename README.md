@@ -1,2 +1,2 @@
-# hover-effects
+# Hover Effects
 Hover Effects
