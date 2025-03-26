@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000000ea;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 250px;
+}
+
+.container h1 {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container img {
+    width: 100%;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.container:hover img {
+    box-shadow: 0 0 30px #ab9101;
+    transform: scale(1.1);
+}
