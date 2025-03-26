@@ -9,3 +9,8 @@ https://renatopereiradevx.github.io/hover-effects/one-piece/
 
 https://renatopereiradevx.github.io/hover-effects/pokemon/
 
+
+## Card Pikachu
+
+https://renatopereiradevx.github.io/hover-effects/pikachu/
+
